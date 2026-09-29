@@ -10,8 +10,8 @@ Landmark Trading is not a broker and not financial advice. Anything you do with 
 
 ## Docs
 
-- [Terms of Service](https://www.landmarkmatrix.app/privacy.md)
-- [Privacy Policy](https://www.landmarkmatrix.app/privacy.md)
+- [Terms of Service](https://www.landmarkmatrix.app/terms.html)
+- [Privacy Policy](https://www.landmarkmatrix.app/privacy.html)
 
 ## Status
 
